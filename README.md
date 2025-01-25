@@ -34,7 +34,9 @@ This initial teardown also revealed a useful aluminum(?) frame, unfortunately, y
 
 Note that some of the fan and motherboard cover screws are outer-shell screws which must be added back so everything is properly held in place.
  
-| ![Internal frame](https://github.com/crastinator-pro/steam-brick/blob/main/images/frame.jpg?raw=true) | ![Cutting](https://github.com/crastinator-pro/steam-brick/blob/main/images/cutting.jpg?raw=true) | ![removed material](https://github.com/crastinator-pro/steam-brick/blob/main/images/removed_metal.jpg?raw=true) |
+![Internal frame](https://github.com/crastinator-pro/steam-brick/blob/main/images/frame.jpg?raw=true)
+![Cutting](https://github.com/crastinator-pro/steam-brick/blob/main/images/cutting.jpg?raw=true)
+![removed material](https://github.com/crastinator-pro/steam-brick/blob/main/images/removed_metal.jpg?raw=true)
 
 I probably should have removed or masked out the fan before grinding away the metal…
 
@@ -44,7 +46,10 @@ Using my limited CAD abilities, I designed a rudimentary shell for the Brick. Th
 
 I printed out the case in Overture Polycarbonate Pro (PC) [link] which _should_ be  heat-resistant enough not to melt while the deck attempts to run Cyberpunk 2077. Color accents were added in PLA with a 3D printing pen.
  
-| ![CAD Model](https://github.com/crastinator-pro/steam-brick/blob/main/images/model1.jpg?raw=true) | ![Cutting](https://github.com/crastinator-pro/steam-brick/blob/main/images/model2.jpg?raw=true) | ![CAD Model](https://github.com/crastinator-pro/steam-brick/blob/main/images/internals.jpg?raw=true) Note: The 3rd antenna is missing in this photo, which I reattached later.| 
+![CAD Model](https://github.com/crastinator-pro/steam-brick/blob/main/images/model1.jpg?raw=true)
+![Cutting](https://github.com/crastinator-pro/steam-brick/blob/main/images/model2.jpg?raw=true)
+![CAD Model](https://github.com/crastinator-pro/steam-brick/blob/main/images/internals.jpg?raw=true)
+Note: The 3rd antenna is missing in this photo, which I reattached later.
  
 # Result
 
