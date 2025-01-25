@@ -80,7 +80,7 @@ The build includes:
 - It’s difficult to tell if the Brick is on or not – as the Deck’s indicator light doesn’t indicate on/off status
 
 # Resources
-STL Files for case
+[STL Files for case](https://www.printables.com/model/1163536-steam-brick/files)
 
 # Affiliate Links
 Want to support this project? Get your hardware here:
