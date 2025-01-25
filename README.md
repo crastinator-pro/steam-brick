@@ -67,7 +67,7 @@ Keeping the screen would have significantly complicated the build, as you’d ne
 
 **Why did you do this again?**
 
-Because I was too so preoccupied with whether or not I could that they didn't stop to think if they should.
+Because I was too so preoccupied with whether or not I could that I didn't stop to think if I should.
 
 # Hardware
 The build includes:
