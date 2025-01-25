@@ -2,6 +2,19 @@
 
 ![Steam Brick image showing discarded components from Steam Deck](https://github.com/crastinator-pro/steam-brick/blob/main/images/header.jpg?raw=true)
 
+<div style="width: 50%; margin: 0 auto; border: 1px solid #ccc; padding: 20px; border-radius: 5px; background-color: #f9f9f9;">
+
+
+  <p style="margin-top: 15px; font-style: italic;">
+    <span style="font-size: 20px; font-weight: bold; margin-right: 0px;">&#8220;</span> 
+     One of those terrible ideas that I am so glad someone tried
+    <span style="font-size: 20px; font-weight: bold; margin-left: 0px;">&#8221;</span>
+  </p>
+
+  <p style="text-align: right; font-weight: bold;">- Some guy on reddit</p> 
+
+</div>
+
 # But… Why?
 
 TL;DR Well, the Steam Deck didn’t fit in my backpack…
