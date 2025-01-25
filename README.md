@@ -14,7 +14,7 @@ When I did use the Deck, it was either plugged in to AR Glasses ([XReal Air 2 Pr
 
 This project was not approved or endorsed in any way by Valve and is generally a very bad idea. I’m honestly surprised it worked and have no idea how long the modified console will survive. The following is provided “as is” and without any expressed or implied warranty. If you choose to attempt this do so at your own risk. Be warned that are likely to “brick” (as in destroy, but pun intended) your console and you might get hurt in the process (lithium batteries and power tools are dangerous, among other things).
 
-This is not a guide, more of a “how I did it”. If there’s enough interest, I might expand this to a more step-by-step style write-up. Until then, feel free to reach out via the Issues [link] page or on reddit [link] if you have any questions. If you’d like to support the project, consider using the affiliate links included on this page.
+This is not a guide, more of a “how I did it”. If there’s enough interest, I might expand this to a more step-by-step style write-up. Until then, feel free to reach out via the [issues page](https://github.com/crastinator-pro/steam-brick/issues) page or on [reddit](https://www.reddit.com/u/Crastinator_Pro/s/F3Rk6jFndK) if you have any questions. If you’d like to support the project, consider using the affiliate links included on this page.
 
 # Getting Started
  
