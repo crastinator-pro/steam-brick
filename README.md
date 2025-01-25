@@ -61,9 +61,11 @@ About a 3rd of the size of the Deck, and about 4 times smaller than the Deck’s
  
 # FAQ
 **Why remove the screen? It wouldn’t have made the build larger!**
+
 Keeping the screen would have significantly complicated the build, as you’d need something to keep in in place. More importantly – the brick was built to be tossed in a bag as-is. No case, no screen protector, just throw it in a backpack or suitcase and don’t worry about it!
 
 **Why did you do this again?**
+
 Because I was too so preoccupied with whether or not I could that they didn't stop to think if they should.
 
 # Known Issue
