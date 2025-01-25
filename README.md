@@ -35,7 +35,7 @@ This initial teardown also revealed a useful aluminum(?) frame, unfortunately, y
 
 Note that some of the fan and motherboard cover screws are outer-shell screws which must be added back so everything is properly held in place.
  
-![Internal frame](https://github.com/crastinator-pro/steam-brick/blob/main/images/frame.jpg?raw=true){ width=90% }
+![Internal frame](https://github.com/crastinator-pro/steam-brick/blob/main/images/frame.jpg?raw=true)
 ![Cutting](https://github.com/crastinator-pro/steam-brick/blob/main/images/cutting.jpg?raw=true)
 ![removed material](https://github.com/crastinator-pro/steam-brick/blob/main/images/removed_metal.jpg?raw=true)
 
