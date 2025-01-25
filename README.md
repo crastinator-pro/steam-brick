@@ -77,15 +77,15 @@ STL Files for case
 
 # Affiliate Links
 Want to support this project? Get your hardware here:
-[1TB OLED Steam Deck](https://amzn.to/40MP0f7)
-[XReal Air 2 Pro](https://amzn.to/3CpmMgW)
-[Virtue Pro XR](https://amzn.to/3PNvIjk)
-[iFixit Pro Tech Toolkit]( https://amzn.to/42ukCHr)
-[LTT Driver]( https://www.lttstore.com/products/precision-multi-bit-screwdriver-bundle) (non-affiliate, but love it!)
-[POWERWORKS Rotary Tool](https://amzn.to/3CxhhNd)
+- [1TB OLED Steam Deck](https://amzn.to/40MP0f7)
+- [XReal Air 2 Pro](https://amzn.to/3CpmMgW)
+- [Virtue Pro XR](https://amzn.to/3PNvIjk)
+- [iFixit Pro Tech Toolkit]( https://amzn.to/42ukCHr)
+- [LTT Driver]( https://www.lttstore.com/products/precision-multi-bit-screwdriver-bundle) (non-affiliate, but love it!)
+- [POWERWORKS Rotary Tool](https://amzn.to/3CxhhNd)
 
 # License 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+![CC BY-NC 4.0](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-lightgrey)
