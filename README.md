@@ -69,6 +69,12 @@ Keeping the screen would have significantly complicated the build, as you’d ne
 
 Because I was too so preoccupied with whether or not I could that they didn't stop to think if they should.
 
+# Hardware
+The build includes:
+- 4x 3M heat set inserts
+- 4x 20mm 3M screws
+
+
 # Known Issue
 - Accessing the BIOS is currently impossible as it requires holding down the ‘+’ button while powering up, and that button isn’t included in the build. Haven’t found a workaround yet.
 - It’s difficult to tell if the Brick is on or not – as the Deck’s indicator light doesn’t indicate on/off status
