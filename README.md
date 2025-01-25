@@ -1,6 +1,3 @@
-Steam Brick Mod
-Brick your steam deck, one way or another…
-
 # No screen, no controller, and absolutely no sense, just a power button and a USB port.
 
 ![Steam Brick image showing discarded components from Steam Deck](https://github.com/crastinator-pro/steam-brick/blob/main/images/header.jpg?raw=true)
