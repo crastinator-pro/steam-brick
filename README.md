@@ -6,7 +6,7 @@
 
 TL;DR Well, the Steam Deck didn’t fit in my backpack…
 
-The Steam Deck [link] has been a game changer for travel, but I found myself leaving it behind more often than not, as it wouldn’t fit in my backpack, took up a huge amount of carry-on space, and was a hassle to bring down from the overhead compartment when I wanted to use it.
+The Steam Deck has been a game changer for travel, but I found myself leaving it behind more often than not, as it wouldn’t fit in my backpack, took up a huge amount of carry-on space, and was a hassle to bring down from the overhead compartment when I wanted to use it.
 When I did use the Deck, it was either plugged in to AR Glasses ([XReal Air 2 Pro]( https://amzn.to/3CpmMgW)) or plugged in to a TV. So, I got to thinking: it could be so much smaller and lighter without the build in controller and screen, but that would be ridiculous, right? …right?
 
 # ⚠️ Disclaimer 
