@@ -1,0 +1,6 @@
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Steam Brick Mod
+description: Brick your Steam Deck - one way or another...
+google_analytics: G-GZC2V22H7F
