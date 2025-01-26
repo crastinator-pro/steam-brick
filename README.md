@@ -89,7 +89,7 @@ The build includes:
 
 
 # Known Issue
-- Accessing the BIOS is currently impossible as it requires holding down the ‘+’ button while powering up, and that button isn’t included in the build. Haven’t found a workaround yet.
+- Accessing the BIOS by holding down the `+` button while powered up is impossible, as that button isn’t included in the build. A workaround is to boot into linux and use `systemctl reboot --firmware-setup` from the command line.
 - It’s difficult to tell if the Brick is on or not – as the Deck’s indicator light doesn’t indicate on/off status
 
 # Resources
