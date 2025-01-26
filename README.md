@@ -107,7 +107,7 @@ The build includes:
 Want to support this project? Get your hardware here:
 - [1TB OLED Steam Deck](https://amzn.to/40MP0f7)
 - [XReal Air 2 Pro](https://amzn.to/3CpmMgW)
-- [Virtue Pro XR](https://amzn.to/3PNvIjk)
+- [Viture Pro XR](https://amzn.to/3PNvIjk)
 - [iFixit Pro Tech Toolkit]( https://amzn.to/42ukCHr)
 - [LTT Driver]( https://www.lttstore.com/products/precision-multi-bit-screwdriver-bundle) (non-affiliate, but love it!)
 - [POWERWORKS Rotary Tool](https://amzn.to/3CxhhNd)
