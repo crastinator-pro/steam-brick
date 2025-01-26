@@ -74,9 +74,16 @@ About a 3rd of the size of the Deck, and about 4 times smaller than the Deck’s
 
  
 # FAQ
+**How is the battery life?**
+Proper testing is still pending, but from my experience with the unmodified deck, play time with AR glasses (and the screen off) is very similar to play time with the screen on. The only difference should be any idle current taken up by the screen and ontroller components, which I expect is negligible. 
+
 **Why remove the screen? It wouldn’t have made the build larger!**
 
 Keeping the screen would have significantly complicated the build, as you’d need something to keep in in place. More importantly – the brick was built to be tossed in a bag as-is. No case, no screen protector, just throw it in a backpack or suitcase and don’t worry about it!
+
+**How about adding X?**
+
+The point of this mod is removing, not adding, but I am considering developing modular "hats" which can be added/removed as needed. Top of the list would be a hat with a secondary battery and USB hub. Some people suggested adding the controllers back on at which point you might as well add the screnn, you know... really DECK it out...
 
 **Why did you do this again?**
 
@@ -89,7 +96,7 @@ The build includes:
 
 
 # Known Issue
-- Accessing the BIOS by holding down the `+` button while powered up is impossible, as that button isn’t included in the build. A workaround is to boot into linux and use `systemctl reboot --firmware-setup` from the command line.
+- Accessing the BIOS by holding down the `+` button while powered up is impossible, as that button isn’t included in the build. As long as the Deck can boot - a workaround is to boot into linux and use `systemctl reboot --firmware-setup` from the command line.
 - It’s difficult to tell if the Brick is on or not – as the Deck’s indicator light doesn’t indicate on/off status
 
 # Resources
