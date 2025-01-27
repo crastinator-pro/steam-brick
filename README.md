@@ -114,14 +114,18 @@ The build includes:
 # Affiliate Links
 Want to support this project? Get your hardware here:
 - [1TB OLED Steam Deck](https://amzn.to/40MP0f7)
+### AR Glasses
 - [XReal Air 2 Pro](https://amzn.to/3CpmMgW)
 - [Viture Pro XR](https://amzn.to/3PNvIjk)
-- [iFixit Pro Tech Toolkit]( https://amzn.to/42ukCHr)
-- [LTT Driver]( https://www.lttstore.com/products/precision-multi-bit-screwdriver-bundle) (non-affiliate, but love it!)
-- [POWERWORKS Rotary Tool](https://amzn.to/3CxhhNd)
+### Controllers
 - [8BitDo Pro 2 Controller](https://amzn.to/3E9PSBL)
 - [SN30 Pro Controller](https://amzn.to/40yFVFb)
 - [Genki x 8BitDo Controller](https://amzn.to/3PQPQ45)
+
+### Tools
+- [POWERWORKS Rotary Tool](https://amzn.to/3CxhhNd)
+- [iFixit Pro Tech Toolkit]( https://amzn.to/42ukCHr)
+- [LTT Driver]( https://www.lttstore.com/products/precision-multi-bit-screwdriver-bundle) (non-affiliate, but love it!)
 
 # License 
 This work is licensed under a
