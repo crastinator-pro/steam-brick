@@ -118,6 +118,7 @@ Want to support this project? Get your hardware here:
 - [512GB OLED Steam Deck](https://amzn.to/4jzvxWo)
 - [512GB LCD Steam Deck](https://amzn.to/4jAeofh) - internals may be a bit different
 ### AR Glasses
+- [Xreal One AR Glasses](https://amzn.to/3WzCqNK) (Latest Model)
 - [XReal Air 2 Pro](https://amzn.to/3CpmMgW)
 - [Viture Pro XR](https://amzn.to/3PNvIjk)
 ### Controllers
