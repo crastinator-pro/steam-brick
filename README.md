@@ -82,9 +82,17 @@ Proper testing is still pending, but from my experience with the unmodified deck
 
 Keeping the screen would have significantly complicated the build, as you’d need something to keep in in place. More importantly – the brick was built to be tossed in a bag as-is. No case, no screen protector, just throw it in a backpack or suitcase and don’t worry about it!
 
+**What are the dimensions/weight?***
+
+The brick measures 193.5 x 126.5 x 21mm (7.6 x 4.9 x 0.8 in) and weighs 474gr (16.7oz)
+
+**What controller are you using? **
+The controller in the photo is and [8BitDo Pro 2](https://amzn.to/3E9PSBL) (it's great!) and I'll often travel with their more compact [SN30 Pro](https://amzn.to/40yFVFb), soon to be upgraded to a [Genki x 8BitDo](https://amzn.to/3PQPQ45)
+
+
 **How about adding X?**
 
-The point of this mod is removing, not adding, but I am considering developing modular "hats" which can be added/removed as needed. Top of the list would be a hat with a secondary battery and USB hub. Some people suggested adding the controllers back on at which point you might as well add the screnn, you know... really DECK it out...
+The point of this mod is removing, not adding, but I am considering developing modular "hats" which can be added/removed as needed. Top of the list would be a hat with a secondary battery and USB hub. Some people suggested adding the controllers back on at which point you might as well add the screen, you know... really DECK it out...
 
 **Why did you do this again?**
 
@@ -111,6 +119,9 @@ Want to support this project? Get your hardware here:
 - [iFixit Pro Tech Toolkit]( https://amzn.to/42ukCHr)
 - [LTT Driver]( https://www.lttstore.com/products/precision-multi-bit-screwdriver-bundle) (non-affiliate, but love it!)
 - [POWERWORKS Rotary Tool](https://amzn.to/3CxhhNd)
+- [8BitDo Pro 2 Controller](https://amzn.to/3E9PSBL)
+- [SN30 Pro Controller](https://amzn.to/40yFVFb)
+- [Genki x 8BitDo Controller](https://amzn.to/3PQPQ45)
 
 # License 
 This work is licensed under a
