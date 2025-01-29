@@ -76,7 +76,7 @@ About a 3rd of the size of the Deck, and about 4 times smaller than the Deck’s
 # FAQ
 **How is the battery life?**
 
-Proper testing is still pending, but from my experience with the unmodified deck, play time with AR glasses (and the screen off) is very similar to play time with the screen on. The only difference should be any idle current taken up by the screen and ontroller components, which I expect is negligible. 
+Proper testing is still pending, but from my experience with the unmodified deck, play time with AR glasses (and the screen off) is very similar to play time with the screen on. The only difference should be any idle current taken up by the screen and controller components, which I expect is negligible. 
 
 **Why remove the screen? It wouldn’t have made the build larger!**
 
